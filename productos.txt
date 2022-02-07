@@ -1,0 +1,20 @@
+[
+   {
+      "Id": 1,
+      "Title": "Pulp",
+      "Writer": Bukowski,
+      "Img": "https://2.bp.blogspot.com/-iqyV2qiZlb8/WlDTsBSpG4I/AAAAAAAADrM/H0wFF6sWRvUKJ-q2KchoRnHZ7D4Cvgx0QCLcBGAs/s1600/DSC01457.jpg"
+   },
+   {
+      "Id": 2,
+      "Title": "El psicoanalista",
+      "Writer": Katzenbach,
+      "Img": "https://images.cdn1.buscalibre.com/fit-in/360x360/47/64/476474613b40b0eeaefd1b146b186be5.jpg"
+   },
+   {
+      "Id": 3,
+      "Title": "El sentimiento trágico de la vida",
+      "Writer": Udaondo,
+      "Img": "https://images-na.ssl-images-amazon.com/images/I/51lyYE11PjL._SX312_BO1,204,203,200_.jpg"
+   }
+]
